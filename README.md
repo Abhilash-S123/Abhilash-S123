@@ -9,7 +9,7 @@ Self-taught MERN stack developer with 7 months of intensive, full-time learning.
 - 🔭 Self-learner specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 📚 Currently exploring **Data Structures & Algorithms**
 - ☁️ Learning **AWS Cloud Services**
--    Exploring AI
+- 🤖 Exploring AI
 - 🎯 Building full-stack projects with real-world applications
 - 🌱 Continuous learner, always expanding my tech stack
 
@@ -49,7 +49,7 @@ Admin dashboard for creating blogs using Google Gemini AI with user commenting s
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/abhilash-s-617130389/?trk=opento_sprofile_topcard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-s-617130389/?trk=opento_sprofile_topcard)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashsubhash72@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 
